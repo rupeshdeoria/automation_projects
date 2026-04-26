@@ -1,4 +1,4 @@
-# Future-Proof AI Automation Bootcamp — Full Syllabus
+# Future-Proof AI Automation Bootcamp — Full Syllabus testing git
 
 > 8 Phases | 19 Weeks | ~95 Subtopics | 18+ Deployed Projects
 
